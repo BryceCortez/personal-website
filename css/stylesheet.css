@@ -7,3 +7,10 @@ background-color: lightblue;
 align-self:center;
 }
 
+body{
+    background-color: cadetblue;
+}
+
+.h1colour {
+    background-color: green;
+}
