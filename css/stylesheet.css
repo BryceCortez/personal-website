@@ -1,19 +1,38 @@
-h1{color: purple;}
+h1{color: #9767DE
+    
+}
 
 h2{color: rgb(2, 70, 48);}
 
 .links {
-background-color: lightblue;
-align-self:center;
+text-align:center;
+line-height: 20px;
+
 }
 
 body{
-    background-color: cadetblue;
+    background-color: beige;
 }
 
 .h1colour {
-    background-color: green;
+    background-color: wheat;
 }
 .h1colour {
     font-family:Montserrat, sans-serif;
+}
+
+.img{
+    float: right;
+}
+
+.footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: blueviolet;
+}
+
+.htwo{
+    background-color: wheat;
 }
