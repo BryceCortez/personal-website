@@ -1,21 +1,21 @@
-h1{color: #9767DE
+h1{color: #334259
     
 }
 
-h2{color: rgb(2, 70, 48);}
+h2{color: rgb(0, 0, 0);}
 
 .links {
 text-align:center;
 line-height: 20px;
-
+background-color: #a6cad4;
 }
 
 body{
-    background-color: beige;
+    background-color: #EDDDD0;
 }
 
 .h1colour {
-    background-color: wheat;
+    background-color:#a6cad4;
 }
 .h1colour {
     font-family:Montserrat, sans-serif;
@@ -30,9 +30,9 @@ body{
     position: fixed;
     bottom: 0;
     left: 0;
-    background-color: blueviolet;
+    background-color:#a6cad4;
 }
 
-.htwo{
-    background-color: wheat;
+.main{
+    background-color: #a6cad4;
 }
