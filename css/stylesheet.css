@@ -5,9 +5,11 @@ h1{color: #334259
 h2{color: rgb(0, 0, 0);}
 
 .links {
+display:grid;
 text-align:center;
-line-height: 20px;
 background-color: #a6cad4;
+
+
 }
 
 body{
@@ -19,6 +21,7 @@ body{
 }
 .h1colour {
     font-family:Montserrat, sans-serif;
+    text-align: center;
 }
 
 .img{
@@ -35,4 +38,47 @@ body{
 
 .main{
     background-color: #a6cad4;
+
 }
+
+.menu{
+    background-color: #a6cad4;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+@media screen and (min-width: 600px) {
+    .menu{
+        flex-direction: column;
+    }
+
+    
+    }
+
+    .b1{
+        border-bottom: #334259 solid ;
+    }
+
+    .b2{
+        border-bottom: #334259 solid ;
+    }
+
+    .p1{
+      text-align: right;
+
+    }
+
+    .p2 {
+        text-align: right;
+    }
+
+    .p3{
+    text-align: right;
+    }
+
+    .f1{
+        background-color: #a6cad4;
+        text-align: center;
+    }
