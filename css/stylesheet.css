@@ -28,12 +28,10 @@ body{
     float: right;
 }
 
-.footer{
+.f2{
     text-align: center;
-    position: fixed;
-    bottom: 0;
-    left: 0;
     background-color:#a6cad4;
+    
 }
 
 .main{
